@@ -7,7 +7,6 @@ This project focuses on analyzing traffic crash data from the City of Chicago to
 - [Dataset Description](#dataset-description)
 - [Objectives](#objectives)
 - [Process Overview](#process-overview)
-- [Using the Excel File](#using-the-excel-file)
 - [Analysis and Insights](#analysis-and-insights)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
